@@ -1,0 +1,6 @@
+framework module Pods_BSK_FirstApp_map {
+  umbrella header "Pods-BSK_FirstApp_map-umbrella.h"
+
+  export *
+  module * { export * }
+}
